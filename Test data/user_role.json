@@ -1,0 +1,18 @@
+{
+    "company1": {
+        "admin": {
+            "email": "admin@company1.com",
+            "password_env": "ADMIN_C1_PASSWORD"
+        },
+        "manager": {
+            "email": "manager@company1.com",
+            "password_env": "MANAGER_C1_PASSWORD"
+        }
+    },
+    "company2": {
+        "user": {
+            "email": "user@company2.com",
+            "password_env": "USER_C2_PASSWORD"
+        }
+    }
+}
