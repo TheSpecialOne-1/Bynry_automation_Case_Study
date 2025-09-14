@@ -1,0 +1,6 @@
+{
+    "base_url": "https://app.workflowpro.com",
+    "browser": "chromium",
+    "headless": true,
+    "timeout": 10000
+}
