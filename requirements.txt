@@ -1,0 +1,14 @@
+# Test runner and framework
+pytest
+
+# Browser automation and end-to-end testing
+playwright
+
+# For generating HTML test reports
+pytest-html
+
+# For loading secrets from a .env file
+python-dotenv
+
+# For making direct API calls
+requests
